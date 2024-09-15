@@ -7,3 +7,10 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .spacer {
   flex: 1 1 auto;
 }
+
+/* snackbar classes to be aplied*/
+
+.succesful{
+  background-color: rgb(47, 255, 203);
+  color:black;
+}
